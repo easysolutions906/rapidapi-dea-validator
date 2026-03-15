@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="60" fill="#1e40af"/>
+  <!-- Shield -->
+  <path d="M250,70 L370,130 L370,250 C370,330 310,380 250,410 C190,380 130,330 130,250 L130,130 Z" fill="none" stroke="#ffffff" stroke-width="22" stroke-linejoin="round"/>
+  <!-- Checkmark inside shield -->
+  <polyline points="190,240 230,280 310,190" fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="250" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#ffffff" dy="30">DEA</text>
+</svg>
